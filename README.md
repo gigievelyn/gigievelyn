@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gigievelyn
-- 👀 I’m interested in frontend development (at the moment!)
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in full-stack development
+- 🌱 I’m currently learning JavaScript, HTML, and CSS
 
 <!---
 gigievelyn/gigievelyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
